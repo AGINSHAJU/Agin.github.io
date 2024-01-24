@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: url("images/pexels-juan-pablo-serrano-arenas-1242348.jpg")center center fixed;
+    background: url('images/pexels-juan-pablo-serrano-arenas-1242348.jpg')center center fixed;
 }
 .text-container {
     flex-grow: 1;
